@@ -5,10 +5,9 @@
 
 # Table of Contents
 
-[What is a QC Flag? [1](#what-is-a-qc-flag)](#what-is-a-qc-flag)
+[What is a QC Flag?](#what-is-a-qc-flag)
 
-[Applying QC Flags to Images
-[2](#applying-qc-flags-to-images)](#applying-qc-flags-to-images)
+[Applying QC Flags to Images](#applying-qc-flags-to-images)
 
 # What is a QC Flag?
 
