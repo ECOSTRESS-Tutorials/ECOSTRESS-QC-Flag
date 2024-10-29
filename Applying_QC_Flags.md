@@ -36,7 +36,7 @@ see the **Downloading from AppEEARS** tutorial. Oftentimes, QC files are
 **automatically** included in your requested files because they are
 important for good research.
 
-<img src="12-Applying_QC_Flags_images/media/image110.png"
+<img src="Applying_QC_Flags_images/media/image110.png"
 style="width:4.64295in;height:0.50999in" />
 
 However, to **ensure** they will be present in your requested files on
@@ -44,7 +44,7 @@ AppEEARS, you can add them as a requested layer. Whatever product you
 are downloading, scroll through the options and look for **QC**, then
 press the **plus** to add it to your requested layers.
 
-<img src="12-Applying_QC_Flags_images/media/image27.png"
+<img src="Applying_QC_Flags_images/media/image27.png"
 style="width:1.81987in;height:0.92264in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -58,13 +58,13 @@ alt="Graphical user interface, text, application Description automatically gener
     Folder**. Name your new folder so that you know it is the main
     project folder.
 
-<img src="12-Applying_QC_Flags_images/media/image3.png"
+<img src="Applying_QC_Flags_images/media/image3.png"
 style="width:4.64606in;height:2.68141in"
 alt="Graphical user interface, application Description automatically generated" />
 
 3.  **Move** the **downloaded code** file into the project folder.
 
-<img src="12-Applying_QC_Flags_images/media/image4.png"
+<img src="Applying_QC_Flags_images/media/image4.png"
 style="width:4.60327in;height:2.64295in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -74,7 +74,7 @@ alt="Graphical user interface, text, application Description automatically gener
 4.  **Move** the folder with your **downloaded ECOSTRESS data** into the
     project folder.
 
-<img src="12-Applying_QC_Flags_images/media/image5.png"
+<img src="Applying_QC_Flags_images/media/image5.png"
 style="width:3.87301in;height:2.23526in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -83,7 +83,7 @@ alt="Graphical user interface, text, application Description automatically gener
     **right click**, and select **New Folder**. Then name the folder so
     that you know it is for the **outputs**.
 
-<img src="12-Applying_QC_Flags_images/media/image6.png"
+<img src="Applying_QC_Flags_images/media/image6.png"
 style="width:3.98406in;height:2.2968in"
 alt="Graphical user interface, application Description automatically generated" />
 
@@ -91,9 +91,9 @@ alt="Graphical user interface, application Description automatically generated" 
     connected to the main project folder that contains the downloaded
     ECOSTRESS files, the QC_Flags code, and the output subfolder.
 
-| <img src="12-Applying_QC_Flags_images/media/image7.png"
+| <img src="Applying_QC_Flags_images/media/image7.png"
 style="width:1.87372in;height:2.12998in"
-alt="Graphical user interface, text, application Description automatically generated" /> | <img src="12-Applying_QC_Flags_images/media/image8.png"
+alt="Graphical user interface, text, application Description automatically generated" /> | <img src="Applying_QC_Flags_images/media/image8.png"
 style="width:2.3968in;height:2.12531in"
 alt="Graphical user interface, text Description automatically generated" /> |
 |----|----|
@@ -101,7 +101,7 @@ alt="Graphical user interface, text Description automatically generated" /> |
 7.  In the **EXPLORER** tab, find the **QC_Flags** code and **click** on
     it to open it.
 
-> <img src="12-Applying_QC_Flags_images/media/image9.png"
+> <img src="Applying_QC_Flags_images/media/image9.png"
 > style="width:5.15833in;height:3.11264in"
 > alt="Graphical user interface, text Description automatically generated" />
 
@@ -114,7 +114,7 @@ because it will guide you to which parts you may want to change!
 
 **Examples** of comments (**green text following the \#):**
 
-<img src="12-Applying_QC_Flags_images/media/image100.png"
+<img src="Applying_QC_Flags_images/media/image100.png"
 style="width:5.1891in;height:0.95994in"
 alt="Text Description automatically generated" />
 
@@ -123,7 +123,7 @@ alt="Text Description automatically generated" />
     text that says **"Replace_this_text_with_folder_path"** to the path
     of the main folder where your ECOSTRESS files are stored.
 
-<img src="12-Applying_QC_Flags_images/media/image11.png"
+<img src="Applying_QC_Flags_images/media/image11.png"
 style="width:6.5in;height:1.09444in"
 alt="Text Description automatically generated" />
 
@@ -133,7 +133,7 @@ alt="Text Description automatically generated" />
     Path**. Now you can paste the path into your code. Make sure it is
     still **wrapped in quotes** and has **r** outside the first quote.
 
-<img src="12-Applying_QC_Flags_images/media/image12.png"
+<img src="Applying_QC_Flags_images/media/image12.png"
 style="width:2.44444in;height:3.02321in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -143,13 +143,13 @@ alt="Graphical user interface, text, application Description automatically gener
     it is still **wrapped in quotes** and has **r** outside the first
     quote.
 
-<img src="12-Applying_QC_Flags_images/media/image13.png"
+<img src="Applying_QC_Flags_images/media/image13.png"
 style="width:6.5in;height:1.09444in"
 alt="Text Description automatically generated" />
 
 **Example Directory Set-up:**
 
-<img src="12-Applying_QC_Flags_images/media/image14.png"
+<img src="Applying_QC_Flags_images/media/image14.png"
 style="width:6.5in;height:0.80903in"
 alt="Text Description automatically generated" />
 
@@ -168,9 +168,9 @@ alt="Text Description automatically generated" />
 
 | <u>How your code should look if you want 0 (perfect) and 1 (nominal) pixels:</u> | <u>How your code should look if you want just 0 (perfect) pixels:</u> |
 |:--:|:--:|
-| <img src="12-Applying_QC_Flags_images/media/image15.png"
+| <img src="Applying_QC_Flags_images/media/image15.png"
 style="width:3.00926in;height:0.88895in"
-alt="Text Description automatically generated" /> | <img src="12-Applying_QC_Flags_images/media/image16.png"
+alt="Text Description automatically generated" /> | <img src="Applying_QC_Flags_images/media/image16.png"
 style="width:3.12312in;height:0.88889in"
 alt="Text Description automatically generated" /> |
 
@@ -180,7 +180,7 @@ alt="Text Description automatically generated" /> |
     run. Click into the box with the library importing code and press
     **Shift+Return** to run it.
 
-<img src="12-Applying_QC_Flags_images/media/image17.png"
+<img src="Applying_QC_Flags_images/media/image17.png"
 style="width:5.68056in;height:1.76546in"
 alt="Text Description automatically generated with medium confidence" />
 
@@ -188,14 +188,14 @@ alt="Text Description automatically generated with medium confidence" />
     **select a kernel** to run your code with. Click on **Python
     Environments …**
 
-<img src="12-Applying_QC_Flags_images/media/image18.png"
+<img src="Applying_QC_Flags_images/media/image18.png"
 style="width:5.55556in;height:1.06719in"
 alt="Graphical user interface Description automatically generated with medium confidence" />
 
 13. Select the **ECOSTRESS** environment that you created, or another
     one if you have a different one you want to use.
 
-<img src="12-Applying_QC_Flags_images/media/image19.png"
+<img src="Applying_QC_Flags_images/media/image19.png"
 style="width:4.1891in;height:1.27821in"
 alt="Graphical user interface, text, application, email Description automatically generated" />
 
@@ -206,7 +206,7 @@ alt="Graphical user interface, text, application, email Description automaticall
     counting up** in the bottom left of the cell. You will know it is
     done when a **green check mark** appears.
 
-<img src="12-Applying_QC_Flags_images/media/image20.png"
+<img src="Applying_QC_Flags_images/media/image20.png"
 style="width:2.33526in;height:1.35297in"
 alt="Graphical user interface, text Description automatically generated" />
 
@@ -221,7 +221,7 @@ alt="Graphical user interface, text Description automatically generated" />
 
 **Example:**
 
-<img src="12-Applying_QC_Flags_images/media/image21.png"
+<img src="Applying_QC_Flags_images/media/image21.png"
 style="width:4.41958in;height:2.52756in"
 alt="A picture containing text Description automatically generated" />
 
@@ -233,14 +233,14 @@ alt="A picture containing text Description automatically generated" />
 
 **Example:**
 
-<img src="12-Applying_QC_Flags_images/media/image22.png"
+<img src="Applying_QC_Flags_images/media/image22.png"
 style="width:4.62759in;height:3.71987in"
 alt="A picture containing text Description automatically generated" />
 
 16. Once your code has run, check your **outputs** folder to make sure
     the files have been saved there correctly.
 
-> <img src="12-Applying_QC_Flags_images/media/image23.png"
+> <img src="Applying_QC_Flags_images/media/image23.png"
 > style="width:2.19008in;height:3.15064in"
 > alt="Text Description automatically generated" />
 
@@ -260,7 +260,7 @@ and thus they will **not** be saved. Alternatively, you may want to
 fix this, look in the **Apply the QC Mask to the LST Image** section,
 and find this part of the code:
 
-<img src="12-Applying_QC_Flags_images/media/image240.png"
+<img src="Applying_QC_Flags_images/media/image240.png"
 style="width:3.7891in;height:1.43509in"
 alt="Text Description automatically generated" />
 
@@ -268,7 +268,7 @@ Highlight that section of the code and press **Command+/** to comment it
 out. This means it will be ignored when the rest of the code runs. You
 will know you have commented it out when it looks like this:
 
-<img src="12-Applying_QC_Flags_images/media/image250.png"
+<img src="Applying_QC_Flags_images/media/image250.png"
 style="width:3.77372in;height:1.36401in"
 alt="Text Description automatically generated" />
 
